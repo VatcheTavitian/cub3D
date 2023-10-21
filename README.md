@@ -34,6 +34,10 @@ then launch program with path to map file
 
 
 ## Screenshots
+cub3D without bonus
+![Screenshot](screenshots/cub3d.png)
 
-
+cub3D with bonus
+![Screenshot](screenshots/cub3d_bonus.png)
+![Screenshot](screenshots/cub3d_bonus2.png)
 
