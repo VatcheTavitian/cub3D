@@ -8,7 +8,7 @@ left and right buttons to look around.
 
 The cub3d_bonus file also allows some mouse control plus animations.
 Refer to Project Instructions PDF for full requirements of project.
-
+NOTE: Project configured for macOS
 
 ## Installation
 
